@@ -3,7 +3,7 @@
 <Packages>
   <WinReducerEX>81</WinReducerEX>
   <Version>v1.8.8.0</Version>
-  <Date>2/3/2019 4:36:01 PM</Date>
+  <Date>2/5/2019 5:24:15 PM</Date>
   <Components>
     <Element Category="Appearance" Name="Activate Desktop Context Menu" Selected="false" Value="" />
     <Element Category="Appearance" Name="Safe Mode" Selected="false" Value="" />
@@ -439,7 +439,7 @@
     <Element Category="Remove - Fonts" Name="Yu Gothic" Selected="true" />
     <Element Category="Remove - Fonts" Name="Yumin" Selected="true" />
     <Element Category="Remove - Keyboards" Name="Afghanistan" Selected="true" Value="0463" />
-    <Element Category="Remove - Keyboards" Name="Albanian" Selected="DEFAULT" Value="041c" />
+    <Element Category="Remove - Keyboards" Name="Albanian" Selected="false" Value="041c" />
     <Element Category="Remove - Keyboards" Name="Arabic" Selected="true" Value="0401" />
     <Element Category="Remove - Keyboards" Name="Armenian" Selected="true" Value="042b" />
     <Element Category="Remove - Keyboards" Name="Azerbaijan" Selected="true" Value="082c" />
@@ -634,7 +634,7 @@
     <Element Category="Remove - Multimedia" Name="Codec - WMV Screen (Encoder)" Selected="true" />
     <Element Category="Remove - Multimedia" Name="DirectX Diagnostic Tool" Selected="true" />
     <Element Category="Remove - Multimedia" Name="DVD-Video Playback" Selected="true" />
-    <Element Category="Remove - Multimedia" Name="Embedded Lockdown Manager" Selected="true" />
+    <Element Category="Remove - Multimedia" Name="Embedded Lockdown Manager" Selected="false" />
     <Element Category="Remove - Multimedia" Name="Games Explorer" Selected="true" />
     <Element Category="Remove - Multimedia" Name="Keyboard Filter" Selected="true" />
     <Element Category="Remove - Multimedia" Name="MIDI Support" Selected="true" />
@@ -842,7 +842,7 @@
     <Element Category="Services" Name="Remote Registry Service" Selected="true" Value="4" />
     <Element Category="Services" Name="Secondary Logon Service" Selected="true" Value="3" />
     <Element Category="Services" Name="Security Center Service" Selected="true" Value="5" />
-    <Element Category="Services" Name="Sensor Monitoring Service" Selected="true" Value="1" />
+    <Element Category="Services" Name="Sensor Monitoring Service" Selected="true" Value="2" />
     <Element Category="Services" Name="Smart Card Services" Selected="true" Value="4" />
     <Element Category="Services" Name="SNMP Trap Service" Selected="true" Value="5" />
     <Element Category="Services" Name="SSDP Discovery Service" Selected="true" Value="3" />

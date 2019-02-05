@@ -3,3 +3,13 @@
 [WinReducer EX 81](https://www.winreducer.net/winreducer-ex-81.html) configuration file, for HP Elitepad 900. 
 
 This is my first attempt in Windows 8.1 modification for better performance.
+
+#### changes:
+
+* Remove-Multimedia 
+  * Embadded Lockdown Manager (false)
+* Tweaks
+  * Desktop - Hide Icons (false)
+
+  *Services
+    * Sensor Monitoring Service (Automatic)
