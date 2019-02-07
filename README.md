@@ -10,4 +10,4 @@ The first idea for the resurrection of my Elitepad was to install some light Lin
 
 ## about this branch:
 
-Windows 8.1 (no pro) based.
+Windows 8.1 Pro based.
