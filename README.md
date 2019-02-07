@@ -2,9 +2,7 @@
 
 Outline of the problem:
 
-I have an Elitepad 900 tablet from 2013. The equipment is still in great condition, but due to software reasons it is not suitable for work. Even when it was brand new, 32 GB of built-in memory did not allow much. In addition to system partitions, HP placed the recovery partition, which occupied over 3 GB of available space.
-
-After several updates, the available disk space no longer allowed anything.
+I have an Elitepad 900 tablet from 2013. The device is still in great condition, but due to software reasons it is not suitable for work. Even when it was brand new, 32 GB of built-in memory did not allow much. In addition to system partitions, HP placed the recovery partition, which occupied over 3 GB of available space. After several updates, the available disk space no longer allowed anything.
 
 
 
