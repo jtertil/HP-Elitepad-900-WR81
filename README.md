@@ -4,9 +4,6 @@ Outline of the problem:
 
 I have an Elitepad 900 tablet from 2013. The device is still in great condition, but due to software reasons it is not suitable for work. Even when it was brand new, 32 GB of built-in memory did not allow much. In addition to system partitions, HP placed the recovery partition, which occupied over 3 GB of available space. After several updates, the available disk space no longer allowed anything.
 
+Performance is also a big problem. Atom Z2760 processor and 2GB RAM do not allow too much. Working on an unoptimized Windows system, full of unnecessary processes and applications, is painful.
 
-
-
-[WinReducer EX 81](https://www.winreducer.net/winreducer-ex-81.html) configuration file, for HP Elitepad 900.
-
-This is my first attempt in Windows 8.1 modification for better performance.
+The first idea for the resurrection of my Elitepad was to install some light Linux. Unfortunately, this is a business device and UEFI does not allow you to boot anything except windows. To have more disk space and RAM at my disposal, I had to prepare my own version of Windows 8.1. Because the preparation of such a system requires many tests and minor changes, I have set up this repository for easier supervision of the project.
