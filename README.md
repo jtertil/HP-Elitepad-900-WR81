@@ -10,4 +10,16 @@ The first idea for the resurrection of my Elitepad was to install some light Lin
 
 ## about this branch:
 
-Windows 8.1 Pro based.
+Just a starting point. All futures of original system.
+OS + Drivers takes 8,73 GB, ISO file: 2,5 GB.
+Clean system after restart need 651 MB of RAM.
+
+
+## after installation:
+
+1. SP71504 ElitePad 900 BIOS/Firmware/Driver Update
+2. SP65877 Atheros AR600x 802.11abgn Wireless LAN Driver
+3. SP65376 AR3002
+4. SP64759 REALTEK CARD READER
+5. SP64682 GPS
+6. SP64673 NFC
