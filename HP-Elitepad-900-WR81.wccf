@@ -3,7 +3,7 @@
 <Packages>
   <WinReducerEX>81</WinReducerEX>
   <Version>v1.8.8.0</Version>
-  <Date>2/7/2019 7:53:00 PM</Date>
+  <Date>2/8/2019 12:56:00 AM</Date>
   <Components>
     <Element Category="Appearance" Name="Activate Desktop Context Menu" Selected="false" Value="" />
     <Element Category="Appearance" Name="Safe Mode" Selected="false" Value="" />
@@ -217,117 +217,117 @@
     <Element Category="Remove - Control Panels" Name="Control Panel - Wireless Devices" Selected="false" />
     <Element Category="Remove - Control Panels" Name="Control Panel - Workspaces Center" Selected="false" />
     <Element Category="Remove - Control Panels" Name="Control Panel - Workspaces Center (Files)" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Display - AGP" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Display - Miracast" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Display - Miracast (Wireless Display)" Selected="false" />
+    <Element Category="Remove - Drivers" Name="Display - AGP" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Display - Miracast" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Display - Miracast (Wireless Display)" Selected="true" />
     <Element Category="Remove - Drivers" Name="File System - ExFAT" Selected="false" />
     <Element Category="Remove - Drivers" Name="File System - ReFS" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Floppy Disk" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Game - Gameport" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Game - Xbox360 Controller" Selected="false" />
+    <Element Category="Remove - Drivers" Name="Floppy Disk" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Game - Gameport" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Game - Xbox360 Controller" Selected="true" />
     <Element Category="Remove - Drivers" Name="Hyper-V - Controller" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Hyper-V - Dynamic Memory" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Hyper-V - Fibre Channel HBA" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Hyper-V - Generation Counter" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Hyper-V - Graphic Card" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Hyper-V - Guest" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Hyper-V - Input" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Hyper-V - Keyboard" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Hyper-V - Network" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Hyper-V - PCI Bus" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Hyper-V - Storage" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Hyper-V - VMBus" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Network - Ethernet - ASIX" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Network - Ethernet - Atheros" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Network - Ethernet - Broadcom" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Network - Ethernet - Emulex" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Network - Ethernet - Intel" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Network - Ethernet - JMicron" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Network - Ethernet - Marvell Yukon" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Network - Ethernet - NVIDIA" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Network - Ethernet - Realtek" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Network - Ethernet - SIS" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Network - Ethernet - VIA" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Network - Ethernet - Virtual" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Network - ISDN - IBM" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Network - ISDN - Microsoft" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Network - Wireless - Atheros" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Network - Wireless - Broadcom" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Network - Wireless - Intel" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Network - Wireless - Marvell" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Network - Wireless - Ralink" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Network - Wireless - Realtek" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Network - Wireless - Virtual" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Printer - Brother" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Printer - Canon" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Printer - Dell" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Printer - East Kodak Corporation" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Printer - Epson" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Printer - Fax" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Printer - Generic" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Printer - Fuji Xerox" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Printer - Hewlett Packard" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Printer - Konica Minolta" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Printer - Kyocera" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Printer - Lexmark International" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Printer - NEC" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Printer - OKI" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Printer - Ricoh" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Printer - Samsung" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Printer - Toshiba" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Printer - Xerox" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Printer - XPS" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Processor - AMD" Selected="false" />
+    <Element Category="Remove - Drivers" Name="Hyper-V - Dynamic Memory" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Hyper-V - Fibre Channel HBA" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Hyper-V - Generation Counter" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Hyper-V - Graphic Card" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Hyper-V - Guest" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Hyper-V - Input" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Hyper-V - Keyboard" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Hyper-V - Network" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Hyper-V - PCI Bus" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Hyper-V - Storage" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Hyper-V - VMBus" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Network - Ethernet - ASIX" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Network - Ethernet - Atheros" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Network - Ethernet - Broadcom" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Network - Ethernet - Emulex" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Network - Ethernet - Intel" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Network - Ethernet - JMicron" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Network - Ethernet - Marvell Yukon" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Network - Ethernet - NVIDIA" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Network - Ethernet - Realtek" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Network - Ethernet - SIS" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Network - Ethernet - VIA" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Network - Ethernet - Virtual" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Network - ISDN - IBM" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Network - ISDN - Microsoft" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Network - Wireless - Atheros" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Network - Wireless - Broadcom" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Network - Wireless - Intel" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Network - Wireless - Marvell" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Network - Wireless - Ralink" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Network - Wireless - Realtek" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Network - Wireless - Virtual" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Printer - Brother" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Printer - Canon" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Printer - Dell" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Printer - East Kodak Corporation" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Printer - Epson" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Printer - Fax" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Printer - Generic" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Printer - Fuji Xerox" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Printer - Hewlett Packard" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Printer - Konica Minolta" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Printer - Kyocera" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Printer - Lexmark International" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Printer - NEC" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Printer - OKI" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Printer - Ricoh" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Printer - Samsung" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Printer - Toshiba" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Printer - Xerox" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Printer - XPS" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Processor - AMD" Selected="true" />
     <Element Category="Remove - Drivers" Name="Processor - Intel Atom" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Scanner - Brother" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Scanner - Canon" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Scanner - Dell" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Scanner - East Kodak Corporation" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Scanner - Epson" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Scanner - Hewlett Packard" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Scanner - Kyocera" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Scanner - Lexmark International" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Scanner - Samsung" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Scanner - Xerox" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Serial Pen - Wacom" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Storage - Adaptec RAID Controller" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Storage - Adaptec SAS Controller" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Storage - AMD RAID Controller" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Storage - AMD Sata Controller" Selected="false" />
+    <Element Category="Remove - Drivers" Name="Scanner - Brother" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Scanner - Canon" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Scanner - Dell" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Scanner - East Kodak Corporation" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Scanner - Epson" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Scanner - Hewlett Packard" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Scanner - Kyocera" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Scanner - Lexmark International" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Scanner - Samsung" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Scanner - Xerox" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Serial Pen - Wacom" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Storage - Adaptec RAID Controller" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Storage - Adaptec SAS Controller" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Storage - AMD RAID Controller" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Storage - AMD Sata Controller" Selected="true" />
     <Element Category="Remove - Drivers" Name="Storage - Intel" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Storage - LSI RAID Controller" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Storage - LSI SAS Controller" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Storage - LSI Solid State Controller" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Storage - Marvell Controller" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Storage - Nvidia RAID Controller" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Storage - Promise SuperTrak SAS and SATA RAID Controller" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Storage - SIS RAID Controller" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Storage - SIS SATA Controller" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Storage - Smart Array SAS and SATA Controller" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Storage - VIA IDE Controller" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Storage - VIA RAID Controller" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Storage - VIA StorX RAID Controller" Selected="false" />
+    <Element Category="Remove - Drivers" Name="Storage - LSI RAID Controller" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Storage - LSI SAS Controller" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Storage - LSI Solid State Controller" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Storage - Marvell Controller" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Storage - Nvidia RAID Controller" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Storage - Promise SuperTrak SAS and SATA RAID Controller" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Storage - SIS RAID Controller" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Storage - SIS SATA Controller" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Storage - Smart Array SAS and SATA Controller" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Storage - VIA IDE Controller" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Storage - VIA RAID Controller" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Storage - VIA StorX RAID Controller" Selected="true" />
     <Element Category="Remove - Drivers" Name="Support - Bluetooth" Selected="false" />
     <Element Category="Remove - Drivers" Name="Support - Boot - EFI and UEFI" Selected="false" />
     <Element Category="Remove - Drivers" Name="Support - Boot - PCAT" Selected="false" />
     <Element Category="Remove - Drivers" Name="Support - Boot - PXE" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Support - Firewire (IEEE1394)" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Support - HD-Audio" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Support - ISA" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Support - IEEE 1667" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Support - iSCSI" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Support - Modem" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Support - Modem (Drivers)" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Support - PC Card" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Support - Pcmcia" Selected="false" />
+    <Element Category="Remove - Drivers" Name="Support - Firewire (IEEE1394)" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Support - HD-Audio" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Support - ISA" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Support - IEEE 1667" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Support - iSCSI" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Support - Modem" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Support - Modem (Drivers)" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Support - PC Card" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Support - Pcmcia" Selected="true" />
     <Element Category="Remove - Drivers" Name="Support - Ram Disk" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Support - SCSI" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Support - Secure Digital Card" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Support - SmartCard" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Support - Tape Drive" Selected="false" />
-    <Element Category="Remove - Drivers" Name="Support - USB Attached SCSI (USAP)" Selected="false" />
-    <Element Category="Remove - Drivers" Name="USB Audio" Selected="false" />
-    <Element Category="Remove - Drivers" Name="USB Video" Selected="false" />
+    <Element Category="Remove - Drivers" Name="Support - SCSI" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Support - Secure Digital Card" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Support - SmartCard" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Support - Tape Drive" Selected="true" />
+    <Element Category="Remove - Drivers" Name="Support - USB Attached SCSI (USAP)" Selected="true" />
+    <Element Category="Remove - Drivers" Name="USB Audio" Selected="true" />
+    <Element Category="Remove - Drivers" Name="USB Video" Selected="true" />
     <Element Category="Remove - Fonts" Name="Static Cache for Windows Fonts" Selected="false" />
     <Element Category="Remove - Fonts" Name="Boot Fonts" Selected="false" />
     <Element Category="Remove - Fonts" Name="Aharoni Bold" Selected="false" />
@@ -798,12 +798,12 @@
     <Element Category="Tweaks" Name="Taskbar - Use Small Icons" Selected="false" />
     <Element Category="Tweaks" Name="Terminal - Always Launched with Administrator Rights" Selected="false" />
     <Element Category="Optimizations" Name="ISO - Boot - Clean Boot Wim" Selected="false" />
-    <Element Category="Optimizations" Name="ISO - Boot - Delete Unneeded Editions" Selected="true" />
-    <Element Category="Optimizations" Name="ISO - Windows - Delete Unneeded Editions" Selected="true" />
-    <Element Category="Optimizations" Name="ISO - Delete Unneeded Files" Selected="true" />
+    <Element Category="Optimizations" Name="ISO - Boot - Delete Unneeded Editions" Selected="OK" />
+    <Element Category="Optimizations" Name="ISO - Windows - Delete Unneeded Editions" Selected="OK" />
+    <Element Category="Optimizations" Name="ISO - Delete Unneeded Files" Selected="OK" />
     <Element Category="Optimizations" Name="ISO - Compression Mode" Selected="false" Value="" />
-    <Element Category="Optimizations" Name="Windows - Unneeded Files Cleanup" Selected="true" />
-    <Element Category="Optimizations" Name="Windows - WinSXS Backup Folder Cleanup" Selected="true" />
+    <Element Category="Optimizations" Name="Windows - Unneeded Files Cleanup" Selected="OK" />
+    <Element Category="Optimizations" Name="Windows - WinSXS Backup Folder Cleanup" Selected="OK" />
     <Element Category="Optimizations" Name="EXPERT - Deep Cleanup" Selected="false" />
     <Element Category="Optimizations" Name="EXPERT - Net Framework Complete Cleanup" Selected="false" Value="" Other="" />
     <Element Category="Optimizations" Name="EXPERT - Net Framework Light Cleanup" Selected="false" />
@@ -888,7 +888,7 @@
     <Element Category="System" Name="OEM Prepared Folder" Selected="false" Value="" />
     <Element Category="System" Name="OOBE Configuration" Selected="false" Value="" />
     <Element Category="System" Name="WinReducer Registry Integrator" Selected="false" Value="" />
-    <Element Category="Unattended" Name="Activate" Selected="false" />
+    <Element Category="Unattended" Name="Activate" Selected="true" />
     <Element Category="Unattended" Name="Accept EULA" Selected="false" />
     <Element Category="Unattended" Name="Computer Name" Selected="false" Value="" />
     <Element Category="Unattended" Name="Hide Boot Image Selection" Selected="false" />
@@ -923,10 +923,10 @@
     <Element Category="Unattended" Name="Disable TCG Security Activation" Selected="false" />
     <Element Category="Unattended" Name="Prevent Device Encryption" Selected="false" />
     <Element Category="Unattended" Name="Join a Domain" Selected="false" DName="" DUsername="" DPassword="" Debug="false" />
-    <Element Category="Presets" Name="Automatic Removing Process" Selected="true" />
-    <Element Category="Presets" Name="Automatic Removing Process (Optimize ISO Size)" Selected="true" />
+    <Element Category="Presets" Name="Automatic Removing Process" Selected="OK" />
+    <Element Category="Presets" Name="Automatic Removing Process (Optimize ISO Size)" Selected="OK" />
     <Element Category="Presets" Name="Automatic Removing Process (Expert Optimization)" Selected="false" />
-    <Element Category="Presets" Name="Protect Important Files" Selected="true" />
+    <Element Category="Presets" Name="Protect Important Files" Selected="OK" />
     <Element Category="Presets" Name="Protect ModernUI Apps" Selected="false" />
     <Element Category="Presets" Name="Protect MS Online Account" Selected="false" />
     <Element Category="Presets" Name="Protect MS Office" Selected="false" />
