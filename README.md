@@ -8,11 +8,12 @@ Performance is also a big problem. Atom Z2760 processor and 2GB RAM do not allow
 
 The first idea for the resurrection of my Elitepad was to install some light Linux. Unfortunately, this is a business device and UEFI does not allow you to boot anything except windows. To have more disk space and RAM at my disposal, I had to prepare my own version of Windows 8.1. Because the preparation of such a system requires many tests and minor changes, I have set up this repository for easier supervision of the project.
 
-## about this branch:
+## about this branch: 
 
 * Delete unnecessary drivers.
 * OS + Drivers takes # GB, ISO file: 2,42 GB.
 * Clean system after restart need # MB of RAM.
+
 
 
 ## after installation:
