@@ -50,13 +50,13 @@
     <Element Category="Appearance" Name="Taskbar Position" Selected="false" Position="" />
     <Element Category="Appearance" Name="Taskbar Size" Selected="false" Size="" />
     <Element Category="Features" Name="AD LDS Services" Selected="true" Value="3" />
-    <Element Category="Features" Name="Direct Play" Selected="true" Value="3" />
+    <Element Category="Features" Name="Direct Play" Selected="false" Value="" />
     <Element Category="Features" Name="Hyper-V" Selected="true" Value="3" />
     <Element Category="Features" Name="Internet Explorer 11" Selected="true" Value="3" />
     <Element Category="Features" Name="Internet Information Services (IIS)" Selected="true" Value="3" />
     <Element Category="Features" Name="Microsoft Message Queuing (MSMQ)" Selected="true" Value="3" />
-    <Element Category="Features" Name="Net Framework 3.5" Selected="true" Value="1" />
-    <Element Category="Features" Name="Net Framework 4.5 Network Advanced Services" Selected="true" Value="1" />
+    <Element Category="Features" Name="Net Framework 3.5" Selected="false" Value="" />
+    <Element Category="Features" Name="Net Framework 4.5 Network Advanced Services" Selected="false" Value="" />
     <Element Category="Features" Name="Printing - LPR Port Monitor" Selected="true" Value="3" />
     <Element Category="Features" Name="Printing - LPD Print Service" Selected="true" Value="3" />
     <Element Category="Features" Name="Printing - Internet Printing" Selected="true" Value="3" />
@@ -65,18 +65,17 @@
     <Element Category="Features" Name="Remote Differential Compression API" Selected="true" Value="3" />
     <Element Category="Features" Name="Simple Network Management Protocol (SNMP)" Selected="true" Value="3" />
     <Element Category="Features" Name="Simple TCP" Selected="true" Value="3" />
-    <Element Category="Features" Name="SMB1 Protocol" Selected="true" Value="1" />
+    <Element Category="Features" Name="SMB1 Protocol" Selected="true" Value="3" />
     <Element Category="Features" Name="Tagged Image File Format IFilter (TIFF iFilter)" Selected="true" Value="3" />
     <Element Category="Features" Name="Telnet Client and Server" Selected="true" Value="3" />
     <Element Category="Features" Name="Trivial File Transfer Protocol (TFTP)" Selected="true" Value="3" />
     <Element Category="Features" Name="Windows Defender" Selected="true" Value="3" />
-    <Element Category="Features" Name="Windows Identity Foundation 3.5" Selected="true" Value="3" />
+    <Element Category="Features" Name="Windows Identity Foundation 3.5" Selected="true" Value="1" />
     <Element Category="Features" Name="Windows Media Player" Selected="true" Value="3" />
     <Element Category="Features" Name="Windows Mobile PC" Selected="true" Value="1" />
     <Element Category="Features" Name="Windows PowerShell" Selected="true" Value="1" />
-    <Element Category="Features" Name="Windows Search" Selected="true" Value="3" />
-    <Element Category="Features" Name="Work Folders" Selected="true" Value="3" />
-    <Element Category="Features" Name="XPS Viewer and Printer" Selected="true" Value="3" />
+    <Element Category="Features" Name="Windows Search" Selected="true" Value="1" />
+    <Element Category="Features" Name="Work Folders" Selected="true" Value="2" />
     <Element Category="Remove - Accessories" Name="16-bit Support" Selected="true" />
     <Element Category="Remove - Accessories" Name="Accessibility" Selected="true" />
     <Element Category="Remove - Accessories" Name="Alt-Tab" Selected="false" />
