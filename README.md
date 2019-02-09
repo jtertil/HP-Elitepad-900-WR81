@@ -16,5 +16,6 @@ The first idea for the resurrection of my Elitepad was to install some light Lin
 * I noticed that some non-obvious drivers are necessary (eg. ramdisk)
 
 * Integrated:
+  * accessories
   * drivers
-  * features 
+  * features

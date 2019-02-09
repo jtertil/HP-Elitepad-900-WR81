@@ -3,7 +3,11 @@
 <Packages>
   <WinReducerEX>81</WinReducerEX>
   <Version>v1.8.8.0</Version>
+<<<<<<< HEAD
   <Date>2/8/2019 10:46:09 AM</Date>
+=======
+  <Date>2/8/2019 1:19:41 PM</Date>
+>>>>>>> accessories
   <Components>
     <Element Category="Appearance" Name="Activate Desktop Context Menu" Selected="false" Value="" />
     <Element Category="Appearance" Name="Safe Mode" Selected="false" Value="" />
@@ -78,69 +82,75 @@
     <Element Category="Features" Name="Work Folders" Selected="true" Value="2" />
     <Element Category="Features" Name="XPS Viewer and Printer" Selected="false" Value="" />
     <Element Category="Remove - Accessories" Name="16-bit Support" Selected="false" />
-    <Element Category="Remove - Accessories" Name="Accessibility" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Accessibility" Selected="true" />
     <Element Category="Remove - Accessories" Name="Alt-Tab" Selected="false" />
-    <Element Category="Remove - Accessories" Name="Anytime Upgrade" Selected="false" />
-    <Element Category="Remove - Accessories" Name="Application Experience (Compatibility Tab)" Selected="false" />
-    <Element Category="Remove - Accessories" Name="Auto Play" Selected="false" />
-    <Element Category="Remove - Accessories" Name="Automatic Maintenance" Selected="false" />
-    <Element Category="Remove - Accessories" Name="Briefcase" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Anytime Upgrade" Selected="true" />
+    <Element Category="Remove - Accessories" Name="Application Experience (Compatibility Tab)" Selected="true" />
+    <Element Category="Remove - Accessories" Name="Auto Play" Selected="true" />
+    <Element Category="Remove - Accessories" Name="Automatic Maintenance" Selected="true" />
+    <Element Category="Remove - Accessories" Name="Briefcase" Selected="true" />
     <Element Category="Remove - Accessories" Name="Calculator" Selected="false" />
-    <Element Category="Remove - Accessories" Name="Character Map" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Character Map" Selected="true" />
     <Element Category="Remove - Accessories" Name="Cleartype Tuner" Selected="false" />
+<<<<<<< HEAD
     <Element Category="Remove - Accessories" Name="Diagnostics Troubleshooting Wizard" Selected="false" />
     <Element Category="Remove - Accessories" Name="Disk Image Burning Tool" Selected="true" />
     <Element Category="Remove - Accessories" Name="Disk Quota" Selected="false" />
+=======
+    <Element Category="Remove - Accessories" Name="Diagnostics Troubleshooting Wizard" Selected="true" />
+    <Element Category="Remove - Accessories" Name="Disk Image Burning Tool" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Disk Quota" Selected="true" />
+>>>>>>> accessories
     <Element Category="Remove - Accessories" Name="Disk Space Cleaner" Selected="false" />
-    <Element Category="Remove - Accessories" Name="Display Color Calibration" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Display Color Calibration" Selected="true" />
     <Element Category="Remove - Accessories" Name="Display Switch" Selected="false" />
-    <Element Category="Remove - Accessories" Name="ELS (Extended Linguistic Services)" Selected="false" />
-    <Element Category="Remove - Accessories" Name="Help and Support" Selected="false" />
-    <Element Category="Remove - Accessories" Name="Imapi" Selected="false" />
-    <Element Category="Remove - Accessories" Name="Input Method Editor" Selected="false" />
-    <Element Category="Remove - Accessories" Name="Natural Languages" Selected="false" />
-    <Element Category="Remove - Accessories" Name="Notepad" Selected="false" />
+    <Element Category="Remove - Accessories" Name="ELS (Extended Linguistic Services)" Selected="true" />
+    <Element Category="Remove - Accessories" Name="Help and Support" Selected="true" />
+    <Element Category="Remove - Accessories" Name="Imapi" Selected="true" />
+    <Element Category="Remove - Accessories" Name="Input Method Editor" Selected="true" />
+    <Element Category="Remove - Accessories" Name="Natural Languages" Selected="true" />
+    <Element Category="Remove - Accessories" Name="Notepad" Selected="true" />
     <Element Category="Remove - Accessories" Name="On Screen Keyboard" Selected="false" />
     <Element Category="Remove - Accessories" Name="Open With" Selected="false" />
-    <Element Category="Remove - Accessories" Name="Paint" Selected="false" />
-    <Element Category="Remove - Accessories" Name="Previous Versions" Selected="false" />
-    <Element Category="Remove - Accessories" Name="Private Character Editor" Selected="false" />
-    <Element Category="Remove - Accessories" Name="Recovery Drive Creator" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Paint" Selected="true" />
+    <Element Category="Remove - Accessories" Name="Previous Versions" Selected="true" />
+    <Element Category="Remove - Accessories" Name="Private Character Editor" Selected="true" />
+    <Element Category="Remove - Accessories" Name="Recovery Drive Creator" Selected="true" />
     <Element Category="Remove - Accessories" Name="Run Legacy CPL Elevated" Selected="false" />
-    <Element Category="Remove - Accessories" Name="Screen Magnifier" Selected="false" />
-    <Element Category="Remove - Accessories" Name="Screen Reader" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Screen Magnifier" Selected="true" />
+    <Element Category="Remove - Accessories" Name="Screen Reader" Selected="true" />
     <Element Category="Remove - Accessories" Name="Set Program Access and Defaults" Selected="false" />
     <Element Category="Remove - Accessories" Name="Snipping Tool" Selected="false" />
-    <Element Category="Remove - Accessories" Name="Sound Recorder" Selected="false" />
-    <Element Category="Remove - Accessories" Name="Spell Checking" Selected="false" />
-    <Element Category="Remove - Accessories" Name="Steps Recorder" Selected="false" />
-    <Element Category="Remove - Accessories" Name="Sticky Notes" Selected="false" />
-    <Element Category="Remove - Accessories" Name="System Restore" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Sound Recorder" Selected="true" />
+    <Element Category="Remove - Accessories" Name="Spell Checking" Selected="true" />
+    <Element Category="Remove - Accessories" Name="Steps Recorder" Selected="true" />
+    <Element Category="Remove - Accessories" Name="Sticky Notes" Selected="true" />
+    <Element Category="Remove - Accessories" Name="System Restore" Selected="true" />
     <Element Category="Remove - Accessories" Name="Tablet PC (Engine)" Selected="false" />
-    <Element Category="Remove - Accessories" Name="Tablet PC (Flick Learning Wizard)" Selected="false" />
-    <Element Category="Remove - Accessories" Name="Tablet PC (Journal)" Selected="false" />
-    <Element Category="Remove - Accessories" Name="Tablet PC (Keyboard Input Panel)" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Tablet PC (Flick Learning Wizard)" Selected="true" />
+    <Element Category="Remove - Accessories" Name="Tablet PC (Journal)" Selected="true" />
+    <Element Category="Remove - Accessories" Name="Tablet PC (Keyboard Input Panel)" Selected="true" />
     <Element Category="Remove - Accessories" Name="Tablet PC (Math Input Panel)" Selected="false" />
-    <Element Category="Remove - Accessories" Name="Tablet PC (Text Prediction)" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Tablet PC (Text Prediction)" Selected="true" />
     <Element Category="Remove - Accessories" Name="Time and Date" Selected="false" />
     <Element Category="Remove - Accessories" Name="UIRibbon Software Compatibility" Selected="false" />
     <Element Category="Remove - Accessories" Name="Webcam Experience" Selected="false" />
-    <Element Category="Remove - Accessories" Name="Welcome Center" Selected="false" />
-    <Element Category="Remove - Accessories" Name="Windows Contacts" Selected="false" />
-    <Element Category="Remove - Accessories" Name="Windows Easy Transfer" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Welcome Center" Selected="true" />
+    <Element Category="Remove - Accessories" Name="Windows Contacts" Selected="true" />
+    <Element Category="Remove - Accessories" Name="Windows Easy Transfer" Selected="true" />
     <Element Category="Remove - Accessories" Name="Windows Features" Selected="false" />
     <Element Category="Remove - Accessories" Name="Windows Features On Demand User Experience (FONDUE)" Selected="false" />
-    <Element Category="Remove - Accessories" Name="Windows Mail" Selected="false" />
-    <Element Category="Remove - Accessories" Name="Windows Mail (Send to Desktop shortcut)" Selected="false" />
-    <Element Category="Remove - Accessories" Name="Windows Recovery Environment" Selected="false" />
-    <Element Category="Remove - Accessories" Name="Windows Sidebar" Selected="false" />
-    <Element Category="Remove - Accessories" Name="Wordpad" Selected="false" />
-    <Element Category="Remove - Accessories" Name="Write" Selected="false" />
-    <Element Category="Remove - Accessories" Name="Zip" Selected="false" />
+    <Element Category="Remove - Accessories" Name="Windows Mail" Selected="true" />
+    <Element Category="Remove - Accessories" Name="Windows Mail (Send to Desktop shortcut)" Selected="true" />
+    <Element Category="Remove - Accessories" Name="Windows Recovery Environment" Selected="true" />
+    <Element Category="Remove - Accessories" Name="Windows Sidebar" Selected="true" />
+    <Element Category="Remove - Accessories" Name="Wordpad" Selected="true" />
+    <Element Category="Remove - Accessories" Name="Write" Selected="true" />
+    <Element Category="Remove - Accessories" Name="Zip" Selected="true" />
     <Element Category="Remove - Control Panels" Name="Control Panel - Action Center" Selected="false" />
     <Element Category="Remove - Control Panels" Name="Control Panel - Action Center (Files)" Selected="false" />
     <Element Category="Remove - Control Panels" Name="Control Panel - Administrative Tools" Selected="false" />
-    <Element Category="Remove - Control Panels" Name="Control Panel - Auto Play" Selected="false" />
+    <Element Category="Remove - Control Panels" Name="Control Panel - Auto Play" Selected="true" />
     <Element Category="Remove - Control Panels" Name="Control Panel - Color Management" Selected="false" />
     <Element Category="Remove - Control Panels" Name="Control Panel - Color Management (Files)" Selected="false" />
     <Element Category="Remove - Control Panels" Name="Control Panel - Credential Manager" Selected="false" />
@@ -798,12 +808,12 @@
     <Element Category="Tweaks" Name="Taskbar - Use Small Icons" Selected="false" />
     <Element Category="Tweaks" Name="Terminal - Always Launched with Administrator Rights" Selected="false" />
     <Element Category="Optimizations" Name="ISO - Boot - Clean Boot Wim" Selected="false" />
-    <Element Category="Optimizations" Name="ISO - Boot - Delete Unneeded Editions" Selected="true" />
-    <Element Category="Optimizations" Name="ISO - Windows - Delete Unneeded Editions" Selected="true" />
-    <Element Category="Optimizations" Name="ISO - Delete Unneeded Files" Selected="true" />
+    <Element Category="Optimizations" Name="ISO - Boot - Delete Unneeded Editions" Selected="OK" />
+    <Element Category="Optimizations" Name="ISO - Windows - Delete Unneeded Editions" Selected="OK" />
+    <Element Category="Optimizations" Name="ISO - Delete Unneeded Files" Selected="OK" />
     <Element Category="Optimizations" Name="ISO - Compression Mode" Selected="false" Value="" />
-    <Element Category="Optimizations" Name="Windows - Unneeded Files Cleanup" Selected="true" />
-    <Element Category="Optimizations" Name="Windows - WinSXS Backup Folder Cleanup" Selected="true" />
+    <Element Category="Optimizations" Name="Windows - Unneeded Files Cleanup" Selected="OK" />
+    <Element Category="Optimizations" Name="Windows - WinSXS Backup Folder Cleanup" Selected="OK" />
     <Element Category="Optimizations" Name="EXPERT - Deep Cleanup" Selected="false" />
     <Element Category="Optimizations" Name="EXPERT - Net Framework Complete Cleanup" Selected="false" Value="" Other="" />
     <Element Category="Optimizations" Name="EXPERT - Net Framework Light Cleanup" Selected="false" />
@@ -923,10 +933,10 @@
     <Element Category="Unattended" Name="Disable TCG Security Activation" Selected="false" />
     <Element Category="Unattended" Name="Prevent Device Encryption" Selected="false" />
     <Element Category="Unattended" Name="Join a Domain" Selected="false" DName="" DUsername="" DPassword="" Debug="false" />
-    <Element Category="Presets" Name="Automatic Removing Process" Selected="true" />
-    <Element Category="Presets" Name="Automatic Removing Process (Optimize ISO Size)" Selected="true" />
+    <Element Category="Presets" Name="Automatic Removing Process" Selected="OK" />
+    <Element Category="Presets" Name="Automatic Removing Process (Optimize ISO Size)" Selected="OK" />
     <Element Category="Presets" Name="Automatic Removing Process (Expert Optimization)" Selected="false" />
-    <Element Category="Presets" Name="Protect Important Files" Selected="true" />
+    <Element Category="Presets" Name="Protect Important Files" Selected="OK" />
     <Element Category="Presets" Name="Protect ModernUI Apps" Selected="false" />
     <Element Category="Presets" Name="Protect MS Online Account" Selected="false" />
     <Element Category="Presets" Name="Protect MS Office" Selected="false" />
