@@ -3,11 +3,7 @@
 <Packages>
   <WinReducerEX>81</WinReducerEX>
   <Version>v1.8.8.0</Version>
-<<<<<<< HEAD
   <Date>2/8/2019 10:46:09 AM</Date>
-=======
-  <Date>2/8/2019 1:19:41 PM</Date>
->>>>>>> accessories
   <Components>
     <Element Category="Appearance" Name="Activate Desktop Context Menu" Selected="false" Value="" />
     <Element Category="Appearance" Name="Safe Mode" Selected="false" Value="" />
