@@ -92,15 +92,9 @@
     <Element Category="Remove - Accessories" Name="Calculator" Selected="false" />
     <Element Category="Remove - Accessories" Name="Character Map" Selected="true" />
     <Element Category="Remove - Accessories" Name="Cleartype Tuner" Selected="false" />
-<<<<<<< HEAD
-    <Element Category="Remove - Accessories" Name="Diagnostics Troubleshooting Wizard" Selected="false" />
     <Element Category="Remove - Accessories" Name="Disk Image Burning Tool" Selected="true" />
-    <Element Category="Remove - Accessories" Name="Disk Quota" Selected="false" />
-=======
     <Element Category="Remove - Accessories" Name="Diagnostics Troubleshooting Wizard" Selected="true" />
-    <Element Category="Remove - Accessories" Name="Disk Image Burning Tool" Selected="false" />
     <Element Category="Remove - Accessories" Name="Disk Quota" Selected="true" />
->>>>>>> accessories
     <Element Category="Remove - Accessories" Name="Disk Space Cleaner" Selected="false" />
     <Element Category="Remove - Accessories" Name="Display Color Calibration" Selected="true" />
     <Element Category="Remove - Accessories" Name="Display Switch" Selected="false" />
