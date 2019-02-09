@@ -3,7 +3,7 @@
 <Packages>
   <WinReducerEX>81</WinReducerEX>
   <Version>v1.8.8.0</Version>
-  <Date>2/8/2019 10:46:09 AM</Date>
+  <Date>2/9/2019 3:47:29 PM</Date>
   <Components>
     <Element Category="Appearance" Name="Activate Desktop Context Menu" Selected="false" Value="" />
     <Element Category="Appearance" Name="Safe Mode" Selected="false" Value="" />
@@ -76,7 +76,7 @@
     <Element Category="Features" Name="Windows PowerShell" Selected="true" Value="1" />
     <Element Category="Features" Name="Windows Search" Selected="true" Value="1" />
     <Element Category="Features" Name="Work Folders" Selected="true" Value="2" />
-    <Element Category="Features" Name="XPS Viewer and Printer" Selected="false" Value="" />
+    <Element Category="Features" Name="XPS Viewer and Printer" Selected="true" Value="3" />
     <Element Category="Remove - Accessories" Name="16-bit Support" Selected="false" />
     <Element Category="Remove - Accessories" Name="Accessibility" Selected="true" />
     <Element Category="Remove - Accessories" Name="Alt-Tab" Selected="false" />
@@ -88,8 +88,8 @@
     <Element Category="Remove - Accessories" Name="Calculator" Selected="false" />
     <Element Category="Remove - Accessories" Name="Character Map" Selected="true" />
     <Element Category="Remove - Accessories" Name="Cleartype Tuner" Selected="false" />
-    <Element Category="Remove - Accessories" Name="Disk Image Burning Tool" Selected="true" />
     <Element Category="Remove - Accessories" Name="Diagnostics Troubleshooting Wizard" Selected="true" />
+    <Element Category="Remove - Accessories" Name="Disk Image Burning Tool" Selected="true" />
     <Element Category="Remove - Accessories" Name="Disk Quota" Selected="true" />
     <Element Category="Remove - Accessories" Name="Disk Space Cleaner" Selected="false" />
     <Element Category="Remove - Accessories" Name="Display Color Calibration" Selected="true" />
@@ -165,8 +165,8 @@
     <Element Category="Remove - Control Panels" Name="Control Panel - Indexing Options (Files)" Selected="false" />
     <Element Category="Remove - Control Panels" Name="Control Panel - Infrared" Selected="false" />
     <Element Category="Remove - Control Panels" Name="Control Panel - Infrared (Files)" Selected="false" />
-    <Element Category="Remove - Control Panels" Name="Control Panel - Internet Options" Selected="false" />
-    <Element Category="Remove - Control Panels" Name="Control Panel - Internet Options (Files)" Selected="false" />
+    <Element Category="Remove - Control Panels" Name="Control Panel - Internet Options" Selected="true" />
+    <Element Category="Remove - Control Panels" Name="Control Panel - Internet Options (Files)" Selected="true" />
     <Element Category="Remove - Control Panels" Name="Control Panel - Keyboard" Selected="false" />
     <Element Category="Remove - Control Panels" Name="Control Panel - Language Settings" Selected="false" />
     <Element Category="Remove - Control Panels" Name="Control Panel - Language Settings (Files)" Selected="false" />
@@ -461,8 +461,8 @@
     <Element Category="Remove - Keyboards" Name="Danish" Selected="false" Value="0406" />
     <Element Category="Remove - Keyboards" Name="Divehi" Selected="false" Value="0465" />
     <Element Category="Remove - Keyboards" Name="Dutch" Selected="false" Value="0413" />
-    <Element Category="Remove - Keyboards" Name="English (UK)" Selected="DEFAULT" Value="0809" />
-    <Element Category="Remove - Keyboards" Name="English (US)" Selected="false" Value="0409" />
+    <Element Category="Remove - Keyboards" Name="English (UK)" Selected="false" Value="0809" />
+    <Element Category="Remove - Keyboards" Name="English (US)" Selected="DEFAULT" Value="0409" />
     <Element Category="Remove - Keyboards" Name="Estonian" Selected="false" Value="0425" />
     <Element Category="Remove - Keyboards" Name="Faeroe Islands" Selected="false" Value="0438" />
     <Element Category="Remove - Keyboards" Name="Finnish" Selected="false" Value="040b" />
@@ -567,8 +567,8 @@
     <Element Category="Remove - Languages" Name="Thailand" Selected="false" Value="th-TH" />
     <Element Category="Remove - Languages" Name="Turkey" Selected="false" Value="tr-TR" />
     <Element Category="Remove - Languages" Name="Ukraine" Selected="false" Value="uk-UA" />
-    <Element Category="Remove - Languages" Name="United Kingdom" Selected="DEFAULT" Value="en-GB" />
-    <Element Category="Remove - Languages" Name="United States" Selected="false" Value="en-US" />
+    <Element Category="Remove - Languages" Name="United Kingdom" Selected="false" Value="en-GB" />
+    <Element Category="Remove - Languages" Name="United States" Selected="DEFAULT" Value="en-US" />
     <Element Category="Remove - Modern UI Apps" Name="Bing Finance" Selected="false" />
     <Element Category="Remove - Modern UI Apps" Name="Bing Food and Drink" Selected="false" />
     <Element Category="Remove - Modern UI Apps" Name="Bing Health And Fitness" Selected="false" />
@@ -644,12 +644,12 @@
     <Element Category="Remove - Multimedia" Name="Photo Viewer" Selected="false" />
     <Element Category="Remove - Multimedia" Name="Speech" Selected="false" />
     <Element Category="Remove - Multimedia" Name="Windows Media Center" Selected="false" />
-    <Element Category="Remove - Multimedia" Name="Windows Optical Character Recognition (OCR)" Selected="false" />
+    <Element Category="Remove - Multimedia" Name="Windows Optical Character Recognition (OCR)" Selected="true" />
     <Element Category="Remove - Multimedia" Name="Windows PlayTo" Selected="false" />
     <Element Category="Remove - Multimedia" Name="Windows System Assessment Tool (WinSAT)" Selected="false" />
-    <Element Category="Remove - Network" Name="Adobe Flash for Windows" Selected="false" />
+    <Element Category="Remove - Network" Name="Adobe Flash for Windows" Selected="true" />
     <Element Category="Remove - Network" Name="Internet Explorer (Engine)" Selected="false" />
-    <Element Category="Remove - Network" Name="Internet Explorer (Developer Tools)" Selected="false" />
+    <Element Category="Remove - Network" Name="Internet Explorer (Developer Tools)" Selected="true" />
     <Element Category="Remove - Network" Name="Network Projection" Selected="false" />
     <Element Category="Remove - Network" Name="OneDrive" Selected="false" />
     <Element Category="Remove - Network" Name="Remote Applications" Selected="false" />
@@ -798,12 +798,12 @@
     <Element Category="Tweaks" Name="Taskbar - Use Small Icons" Selected="false" />
     <Element Category="Tweaks" Name="Terminal - Always Launched with Administrator Rights" Selected="false" />
     <Element Category="Optimizations" Name="ISO - Boot - Clean Boot Wim" Selected="false" />
-    <Element Category="Optimizations" Name="ISO - Boot - Delete Unneeded Editions" Selected="OK" />
-    <Element Category="Optimizations" Name="ISO - Windows - Delete Unneeded Editions" Selected="OK" />
-    <Element Category="Optimizations" Name="ISO - Delete Unneeded Files" Selected="OK" />
+    <Element Category="Optimizations" Name="ISO - Boot - Delete Unneeded Editions" Selected="true" />
+    <Element Category="Optimizations" Name="ISO - Windows - Delete Unneeded Editions" Selected="true" />
+    <Element Category="Optimizations" Name="ISO - Delete Unneeded Files" Selected="true" />
     <Element Category="Optimizations" Name="ISO - Compression Mode" Selected="false" Value="" />
-    <Element Category="Optimizations" Name="Windows - Unneeded Files Cleanup" Selected="OK" />
-    <Element Category="Optimizations" Name="Windows - WinSXS Backup Folder Cleanup" Selected="OK" />
+    <Element Category="Optimizations" Name="Windows - Unneeded Files Cleanup" Selected="true" />
+    <Element Category="Optimizations" Name="Windows - WinSXS Backup Folder Cleanup" Selected="true" />
     <Element Category="Optimizations" Name="EXPERT - Deep Cleanup" Selected="false" />
     <Element Category="Optimizations" Name="EXPERT - Net Framework Complete Cleanup" Selected="false" Value="" Other="" />
     <Element Category="Optimizations" Name="EXPERT - Net Framework Light Cleanup" Selected="false" />
@@ -823,10 +823,10 @@
     <Element Category="Services" Name="COM+ System Application Service" Selected="false" Value="" />
     <Element Category="Services" Name="Diagnostic Policy Services" Selected="false" Value="" />
     <Element Category="Services" Name="Family Safety Service" Selected="false" Value="" />
-    <Element Category="Services" Name="Fax Service" Selected="false" Value="" />
+    <Element Category="Services" Name="Fax Service" Selected="true" Value="5" />
     <Element Category="Services" Name="File History Service" Selected="false" Value="" />
     <Element Category="Services" Name="HomeGroup Listener and Provider Services" Selected="false" Value="" />
-    <Element Category="Services" Name="HyperV Services" Selected="false" Value="" />
+    <Element Category="Services" Name="HyperV Services" Selected="true" Value="5" />
     <Element Category="Services" Name="Internet Connection Sharing (ICS) Service" Selected="false" Value="" />
     <Element Category="Services" Name="Microsoft iSCSI Initiator Service" Selected="false" Value="" />
     <Element Category="Services" Name="Network Connected Devices Auto-Setup Service" Selected="false" Value="" />
@@ -837,20 +837,20 @@
     <Element Category="Services" Name="Problem Reports and Solutions Service" Selected="false" Value="" />
     <Element Category="Services" Name="Program Compatibility Assistant Service" Selected="false" Value="" />
     <Element Category="Services" Name="Quality Windows Audio Video Experience Service" Selected="false" Value="" />
-    <Element Category="Services" Name="Remote Access Manager Services" Selected="false" Value="" />
+    <Element Category="Services" Name="Remote Access Manager Services" Selected="true" Value="5" />
     <Element Category="Services" Name="Remote Desktop Services" Selected="false" Value="" />
     <Element Category="Services" Name="Remote Registry Service" Selected="false" Value="" />
     <Element Category="Services" Name="Secondary Logon Service" Selected="false" Value="" />
     <Element Category="Services" Name="Security Center Service" Selected="false" Value="" />
     <Element Category="Services" Name="Sensor Monitoring Service" Selected="false" Value="" />
     <Element Category="Services" Name="Smart Card Services" Selected="false" Value="" />
-    <Element Category="Services" Name="SNMP Trap Service" Selected="false" Value="" />
+    <Element Category="Services" Name="SNMP Trap Service" Selected="true" Value="5" />
     <Element Category="Services" Name="SSDP Discovery Service" Selected="false" Value="" />
     <Element Category="Services" Name="Secure Socket Tunneling Protocol Service" Selected="false" Value="" />
     <Element Category="Services" Name="Superfetch Service" Selected="false" Value="" />
     <Element Category="Services" Name="System Event Notification Service" Selected="false" Value="" />
     <Element Category="Services" Name="Telephony Service" Selected="false" Value="" />
-    <Element Category="Services" Name="Telnet Service" Selected="false" Value="" />
+    <Element Category="Services" Name="Telnet Service" Selected="true" Value="5" />
     <Element Category="Services" Name="Touch Keyboard and Handwriting Panel Service" Selected="false" Value="" />
     <Element Category="Services" Name="UPnP Device Host Service" Selected="false" Value="" />
     <Element Category="Services" Name="Volume Shadow Copy Service" Selected="false" Value="" />
@@ -923,10 +923,10 @@
     <Element Category="Unattended" Name="Disable TCG Security Activation" Selected="false" />
     <Element Category="Unattended" Name="Prevent Device Encryption" Selected="false" />
     <Element Category="Unattended" Name="Join a Domain" Selected="false" DName="" DUsername="" DPassword="" Debug="false" />
-    <Element Category="Presets" Name="Automatic Removing Process" Selected="OK" />
-    <Element Category="Presets" Name="Automatic Removing Process (Optimize ISO Size)" Selected="OK" />
+    <Element Category="Presets" Name="Automatic Removing Process" Selected="true" />
+    <Element Category="Presets" Name="Automatic Removing Process (Optimize ISO Size)" Selected="true" />
     <Element Category="Presets" Name="Automatic Removing Process (Expert Optimization)" Selected="false" />
-    <Element Category="Presets" Name="Protect Important Files" Selected="OK" />
+    <Element Category="Presets" Name="Protect Important Files" Selected="true" />
     <Element Category="Presets" Name="Protect ModernUI Apps" Selected="false" />
     <Element Category="Presets" Name="Protect MS Online Account" Selected="false" />
     <Element Category="Presets" Name="Protect MS Office" Selected="false" />
