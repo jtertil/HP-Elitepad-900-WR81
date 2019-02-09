@@ -10,7 +10,7 @@ The first idea for the resurrection of my Elitepad was to install some light Lin
 
 ## about this branch:
 
-* Just a starting point.
+* Just a starting point for customization.
 * All futures of original system.
 * OS + Drivers takes 8,73 GB, ISO file: 2,5 GB.
 * Clean system after restart need 651 MB of RAM.
