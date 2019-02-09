@@ -17,4 +17,4 @@ The first idea for the resurrection of my Elitepad was to install some light Lin
 
 * Integrated:
   * drivers
-  
+  * features 
